@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA57B581-A4E2-4172-BC7E-D10EE17EEC62"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC027F5B-01F3-45E2-8720-7224138E5FB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasketballScoreboard/ViewController.swift"
+            timestampString = "526104727.202781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8463A6C-802B-4194-9D90-7932A6FAFC4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasketballScoreboard/ViewController.swift"
+            timestampString = "526104727.202781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E8463A6C-802B-4194-9D90-7932A6FAFC4E - d7c539592a3be71c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasketballScoreboard.ViewController.__deallocating_deinit"
+                  moduleName = "BasketballScoreboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mstst/Desktop/BasketballScoreboard/BasketballScoreboard/ViewController.swift"
+                  timestampString = "525900140.060475"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "E8463A6C-802B-4194-9D90-7932A6FAFC4E - ff2356a71841f460"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasketballScoreboard.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BasketballScoreboard.ViewController"
+                  moduleName = "BasketballScoreboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mstst/Desktop/BasketballScoreboard/BasketballScoreboard/ViewController.swift"
+                  timestampString = "525900140.064362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E8463A6C-802B-4194-9D90-7932A6FAFC4E - 1b0b40616f29f874"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasketballScoreboard.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BasketballScoreboard.ViewController"
+                  moduleName = "BasketballScoreboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mstst/Desktop/BasketballScoreboard/BasketballScoreboard/ViewController.swift"
+                  timestampString = "525900140.066991"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "E8463A6C-802B-4194-9D90-7932A6FAFC4E - f786b0915248b563"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasketballScoreboard.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BasketballScoreboard.ViewController&gt;"
+                  moduleName = "BasketballScoreboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mstst/Desktop/BasketballScoreboard/BasketballScoreboard/ViewController.swift"
+                  timestampString = "525900140.068588"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "E8463A6C-802B-4194-9D90-7932A6FAFC4E - a55f2c3af3abe7b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BasketballScoreboard.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BasketballScoreboard.ViewController&gt;"
+                  moduleName = "BasketballScoreboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mstst/Desktop/BasketballScoreboard/BasketballScoreboard/ViewController.swift"
+                  timestampString = "525900140.06999"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61C53189-DBC6-4407-BE63-C037DDF56D00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasketballScoreboard/ViewController.swift"
+            timestampString = "526105987.111777"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "OnTouchUpInside_btn_red_1p(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F48ECBE-F44D-4F32-85B1-9A5AFE581B5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BasketballScoreboard/ViewController.swift"
+            timestampString = "526105721.362221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "setTime()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
